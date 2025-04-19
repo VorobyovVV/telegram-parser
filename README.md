@@ -31,7 +31,7 @@ telegram_parser/
 ### 1. Клонируй репозиторий
 
 ```bash
-git clone https://github.com/yourusername/telegram_parser.git
+git clone [https://github.com/yourusername/telegram_parser.git](https://github.com/VorobyovVV/telegram-parser.git)
 cd telegram_parser
 ```
 
@@ -58,6 +58,20 @@ MAX_MESSAGES=1000
 
 ```bash
 python main.py <список_каналов>
+```
+
+Например:
+
+```bash
+python main.py @spbuniversity @naukamsu
+```
+
+### 5. Авторизация телеграмма
+
+```bash
+Введите номер:
+Введите код для входа:
+Введите пароль:
 ```
 
 Например:

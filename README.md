@@ -31,7 +31,7 @@ telegram_parser/
 ### 1. Клонируй репозиторий
 
 ```bash
-git clone [https://github.com/yourusername/telegram_parser.git](https://github.com/VorobyovVV/telegram-parser.git)
+git clone https://github.com/VorobyovVV/telegram-parser.git
 cd telegram_parser
 ```
 

@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# Telethon session
+*.session
+*.session-journal
+
+# Logs
+logs/
+*.log
+
+# Env
+.env
+
+# Data
+data/
+
+# Plots
+*.png
